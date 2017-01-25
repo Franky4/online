@@ -1,8 +1,0 @@
-Print
-write
-<<<<<<< HEAD
-Release 1.1 
-add
-=======
-Release 2.0 
->>>>>>> features/second
